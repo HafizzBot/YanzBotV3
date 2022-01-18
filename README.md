@@ -1,1 +1,1 @@
-# YanzBotV3
+# yanzbot
